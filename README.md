@@ -2,8 +2,7 @@
 
 **`Estudante de Programção`**
 
-Me chamo Jheimison Gomes, tenho 35 anos e sou natural de Pará. Atualmente, estou cursando técnico em informática no SENAC/RR. Sou apaixonado por tecnologia e busco sempre estar por dentro das noticias
-𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: [vn.laurindo](https://www.instagram.com/vn.laurindo/).
+Me chamo Jheimison Gomes, tenho 35 anos e sou natural de Pará. Atualmente, estou cursando técnico em informática no SENAC/RR. Sou apaixonado por tecnologia e busco sempre estar por dentro das noticias. 
 
 <p align="left"
     <a href="https://github.com/TecLaurindo?tab=repositories&sort=stargazers">
