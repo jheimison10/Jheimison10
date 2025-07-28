@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jheimison Gomes 
+# Jheimison Gomes 
 
 **`Desenvolvedor FullStack`**
 
