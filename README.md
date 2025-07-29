@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jheimison Gomes do Nascimento, tenho 35 anos e sou natural do Pará. Com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento.
+Me chamo Jheimison Gomes do Nascimento, tenho 35 anos e sou natural do Pará. Estou fazendo o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento.
 <p align="left">
     <a href="https://www.youtube.com/@?sub_confirmation=1">
         <img 
