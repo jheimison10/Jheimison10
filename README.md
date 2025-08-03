@@ -37,6 +37,7 @@ Me chamo Jheimison Gomes, tenho 35 anos e sou natural do Pará. Estou fazendo o 
 ---
 
 🤖 Linguagens e Tecnologias
+
 <img
 align="left"
 alt="Java"
@@ -47,35 +48,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 />
 <img
 align="left"
-alt="Samba"
-title="Samba"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/samba/samba-original.svg"
-/>
-<img
-align="left"
-alt="FTP"
-title="FTP"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ftp/ftp-original.svg"
-/>
-<img
-align="left"
 alt="Windows Server"
 title="Windows Server"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
-/>
-<img
-align="left"
-alt="Networking"
-title="Redes de Internet"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devops/devops-original.svg"
 />
 <img
 align="left"
@@ -93,22 +70,6 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
-<img
-align="left"
-alt="Debian"
-title="Debian"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -117,6 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-ori
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
