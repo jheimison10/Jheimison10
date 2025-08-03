@@ -1,8 +1,6 @@
 # Jheimison Gomes 
 
 **`Desenvolvedor FullStack`**
-# 👋 Hello! Welcome to my Github profile.
-## My name is Jheimison Gomes and my nickname is "Jheimison10"!
 
 Me chamo Jheimison Gomes, tenho 35 anos, moro em Boa Vista - Roraima. Estou fazendo o curso técnico em informática no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Atualmente trabalho na área de informática e compartilho meu conhecimento.
 <p align="left">
