@@ -36,7 +36,7 @@ Me chamo Jheimison Gomes, tenho 35 anos e sou natural do Pará. Estou fazendo o 
 
 ---
 
-🤖 Linguagens e Tecnologias
+💻 Tecnologias, Ferramentas e Linguagem.
 
 <img
 align="left"
@@ -77,6 +77,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+align="left"
+alt="Debian"
+title="Debian"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
 />
 
 <br/>
