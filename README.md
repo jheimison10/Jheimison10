@@ -40,8 +40,8 @@ Me chamo Jheimison Gomes, tenho 35 anos, moro em Boa Vista - Roraima. Estou faze
 
 <img
 align="left"
-alt="Java"
-title="Java"
+alt=" Java "
+title=" Java "
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg"
