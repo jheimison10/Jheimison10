@@ -38,7 +38,14 @@ Me chamo Jheimison Gomes, tenho 35 anos, moro em Boa Vista - Roraima. Estou faze
 
 💻 Tecnologias, Ferramentas e Linguagem.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-
+<img
+align="left"
+alt="Portugol Studio"
+title="Portugol Studio"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
 
 <img
 align="left"
@@ -46,8 +53,9 @@ alt="Java"
 title="Java"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Portugol Studio/Portugol Studio-original.svg"
 />
+
 <img
 align="left"
 alt="Windows Server"
