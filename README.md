@@ -38,7 +38,6 @@ Me chamo Jheimison Gomes, tenho 35 anos, moro em Boa Vista - Roraima. Estou faze
 
 💻 Tecnologias, Ferramentas e Linguagem.
 
-/>
 
 <img
 align="left"
