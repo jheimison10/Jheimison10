@@ -39,21 +39,22 @@ Me chamo Jheimison Gomes, tenho 35 anos, moro em Boa Vista - Roraima. Estou faze
 💻 Tecnologias, Ferramentas e Linguagem.
 
 
-<img
-align="left"
-alt="aarch64"
-title="aarch64"
-width="30px"
-style="padding-right: 10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>      
+<img 
+align="left" 
+alt="Portugol"
+title="Portugol" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" 
+/>  
 
-
-<img
-align="left"
-alt="Java"
+<img 
+align="left" 
+alt="Java" 
 title="Java"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn-icons-png.flaticon.com/512/226/226777.png" 
 />
 
 <img
@@ -64,14 +65,16 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
 />
-<img
-align="left"
-alt="Portugol Studio"
-title="Portugol Studio"
-width="30px"
-style="padding-right: 10px;"
-src="https://img.icons8.com/color/48/000000/console.png"
+
+<img 
+align="left" 
+ alt="Ubuntu"
+title="Ubuntu" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" 
 />
+
 <img
 align="left"
 alt="Linux"
@@ -80,14 +83,16 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+align="left" 
+alt="Git" 
+title="Git"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img
 align="left"
 alt="Debian"
