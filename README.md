@@ -1,4 +1,4 @@
-# JHEIMISON GOMES 
+# Jheimison Gomes
 
 **`Desenvolvedor FullStack`**
 
@@ -86,11 +86,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 
 <img 
 align="left" 
-alt="Git" 
-title="Git"
+alt="facebook" 
+title="facebook"
 width="30px" 
 style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" 
 />
 
 <img
@@ -100,6 +100,15 @@ title="Debian"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
+/>
+
+<img
+align="left"
+alt="sql"
+title="sql"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg"
 />
 
 <br/>
