@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jheimison Gomes, tenho 35 anos, moro em Boa Vista - Roraima. Estou fazendo o curso técnico em informática no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Atualmente trabalho na área de informática e compartilho meu conhecimento.
+Eu Me chamo Jheimison, tenho 35 anos, moro em Boa Vista - Roraima. Estou fazendo o curso técnico em informática no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Atualmente trabalho na área de informática e compartilho meu conhecimento.
 <p align="left">
     <a href="https://www.youtube.com/@?sub_confirmation=1">
         <img 
