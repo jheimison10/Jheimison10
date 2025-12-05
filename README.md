@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Eu Me chamo Jheimison, tenho 35 anos, moro em Boa Vista - Roraima. Estou fazendo o curso técnico em informática no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Atualmente trabalho na área de informática e compartilho meu conhecimento.
+Eu me chamo Jheimison, tenho 35 anos, moro em Boa Vista - Roraima. 
+Estou fazendo o curso técnico em informática no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Atualmente trabalho na área de informática e compartilho meu conhecimento.
 <p align="left">
     <a href="https://www.youtube.com/@?sub_confirmation=1">
         <img 
@@ -38,6 +40,33 @@ Eu Me chamo Jheimison, tenho 35 anos, moro em Boa Vista - Roraima. Estou fazendo
 
 💻 Tecnologias, Ferramentas e Linguagem.
 
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
 <img 
 align="left" 
